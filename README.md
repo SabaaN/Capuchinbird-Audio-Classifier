@@ -5,7 +5,7 @@ This project is a small audio classifier designed to detect and classify audio s
 
 
 
-# # # To run this project, you'll need 
+### To run this project, you'll need 
 
 Python 3.8+
 
