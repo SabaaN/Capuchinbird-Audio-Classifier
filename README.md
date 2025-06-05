@@ -1,4 +1,4 @@
-# Capuchin Bird Audio Classification
+# Capuchin Bird Audio Classification Model
 
 This project is a small audio classifier designed to detect and classify audio signals of the Capuchin bird. The purpose of this project is to gain experience in working with audio data and building machine learning models for audio classification tasks. It involves preprocessing audio data, extracting features, training a TensorFlow model, and evaluating its performance.
 
